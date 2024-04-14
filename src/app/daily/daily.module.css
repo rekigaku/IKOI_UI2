@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #ffffff; /* bg-base-100 に相当する色 */
+  }
+  
+  .btn {
+    font-size: 1.25rem; /* text-2xl に相当 */
+    margin-right: 1.75rem; /* mr-7 に相当 */
+  }
+  
+  .card {
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem; /* rounded-lg に相当 */
+    border: 1px solid #e5e7eb; /* border-gray-200 に相当 */
+  }
+  
+  .submitButton {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+  }
+  
+  .inputSubmit {
+    background-color: #37cdbe;
+    color: white;
+    padding: 15px 60px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .footer {
+    background-color: #374151; /* bg-neutral に相当 */
+    color: #f9fafb; /* text-neutral-content に相当 */
+  }
+  
